@@ -28,6 +28,9 @@ Primary.args = {
   label: 'Button',
 };
 
+var nome = window.prompt('Digite seu nome');
+window.alert('Bem vindo, ' + nome + '!');
+
 export const Secondary = Template.bind({});
 Secondary.args = {
   label: 'Button',
