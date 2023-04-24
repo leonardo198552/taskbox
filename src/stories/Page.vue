@@ -8,33 +8,34 @@
     />
 
     <section>
-      <h2>A História de<em> Leonard</em></h2>
+      <h2>A História da<em> Humanidade</em></h2>
       <p>
         É incrível tudo isso.
         <a href="#" target="_blank" rel="noopener noreferrer">
-          <strong>Minha vida</strong>
+          <strong>A história da humanidade</strong>
         </a>
-        Tem sido uma eventual constante desde quando eu tinha 12 anos.
+        A história da humanidade está repleta de momentos marcantes que moldaram o mundo em que vivemos hoje..
       </p>
       <p>
-        Bora pro jogo que tem ainda o segundo tempo inteiro pra gente ganhar. Saí de uma familia terrivel, onde não 
-        tive estrutura nenhuma. Pais cachaceiros, colocava eu e meus irmãos, para pedir esmolas e trabalhar, enquanto eles ficavam 
-        em casa bebendo cachaça.
+        Desde a descoberta do fogo até a exploração espacial, os seres humanos têm sido capazes de superar 
+        desafios incríveis ao longo do tempo. No entanto, a história também é repleta de conflitos, guerras
+        e injustiças que deixaram marcas profundas em nossa sociedade.
       </p>
       <ul>
         <li>
-          Toda vitória é incrível quando conseguimos vencer e, ser um exemplo para nossos filhos, comigo não é diferente.
-          Agradeço muito a Deus por todo amadurecimento que ele me proporcionou todo esses anos. Deus me abençoou e me deu
-          uma nova vida. Agradeço a ele todos os dias por isso.
+          Guerras mundiais, genocídios e regimes totalitários são apenas alguns exemplos dessas situações terríveis
+           que a humanidade teve que enfrentar. 
         </li>
         <li>
-          Em especial, queria agradecer ao <em>Kennedy T.</em> pois, foi graças a ele que eu pude conhecer esse mundo tão incrível
-          que é a tecnologia. Sempre foi mais q um irmão pra mim. Sei q fui imaturo em coisas passadas com vc e sua familia, mas deixo aqui minhas
-          sinceras desculpas e, digo q nunca foi minha intenção magoar ninguém.
+          Apesar desses momentos sombrios, também há muitas histórias de esperança, coragem e superação que mostram a
+          capacidade da humanidade de se unir e enfrentar grandes desafios. A luta pelos direitos civis, a abolição
+          da escravatura e a queda do apartheid são apenas alguns exemplos dessas vitórias históricas.
         </li>
       </ul>
       <p>
-        Obrigado mesmo, <em>Kennedy</em>! Se eu posso ter as coisas q não tive antes, é graças a vc que me fez conhecer isso que chamamos de tecnologia.
+        No final, a história nos ensina que o progresso humano não é fácil nem linear. É um processo contínuo que envolve
+        altos e baixos, avanços e retrocessos. Mas com coragem, determinação e compaixão, podemos trabalhar juntos para 
+        construir um mundo melhor para todos."
         <a href="#" target="_blank" rel="noopener noreferrer"
           >Esse é o fim do meu discurso</a
         >
@@ -77,13 +78,13 @@ export default {
 
   methods: {
     onLogin() {
-      this.user = { name: 'Kennedy T.' };
+      this.user = { name: 'Leonardo J. Andrade.' };
     },
     onLogout() {
       this.user = null;
     },
     onCreateAccount() {
-      this.user = { name: 'Kennedy T.' };
+      this.user = { name: 'Leonardo J. Andrade' };
     },
   },
 };

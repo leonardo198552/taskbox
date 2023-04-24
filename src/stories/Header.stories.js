@@ -19,7 +19,7 @@ const Template = (args, { argTypes }) => ({
 export const LoggedIn = Template.bind({});
 LoggedIn.args = {
   user: {
-    name: 'Kennedy T.',
+    name: 'Leonardo J. Andrade',
   },
 };
 
