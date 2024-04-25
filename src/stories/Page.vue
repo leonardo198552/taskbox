@@ -21,6 +21,7 @@
         desafios incríveis ao longo do tempo. No entanto, a história também é repleta de conflitos, guerras
         e injustiças que deixaram marcas profundas em nossa sociedade.
       </p>
+      
       <ul>
         <li>
           Guerras mundiais, genocídios e regimes totalitários são apenas alguns exemplos dessas situações terríveis
