@@ -2,13 +2,13 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br />
-      check out the
+      Para obter um guia e receitas sobre como configurar/personalizar este projeto,<br />
+      Confira a
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
-        >vue-cli documentation</a
+        >vue-cli documentação</a
       >.
     </p>
-    <h3>Installed CLI Plugins</h3>
+    <h3>Instale CLI Plugins</h3>
     <ul>
       <li>
         <a
@@ -35,10 +35,10 @@
         >
       </li>
     </ul>
-    <h3>Essential Links</h3>
+    <h3>Links Essenciais</h3>
     <ul>
       <li>
-        <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
+        <a href="https://vuejs.org" target="_blank" rel="noopener">Essencial Docs</a>
       </li>
       <li>
         <a href="https://forum.vuejs.org" target="_blank" rel="noopener"

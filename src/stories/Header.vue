@@ -21,7 +21,7 @@
         <h1>Sua-Marca</h1>
       </div>
       <div>
-        <span class="welcome" v-if="user">Bem Vindo, <b>{{ user.name }}</b>!</span>
+        <span class="welcome" v-if="user"> Seja Bem Vindo, <b>{{ user.name }}</b>!</span>
         <my-button size="small" @onClick="onLogout" label="Log out" v-if="user" />
         <my-button size="small" @onClick="onLogin" label="Log in" v-if="!user" />
         <my-button primary size="small" @onClick="onCreateAccount" label="Sign up" v-if="!user" />
