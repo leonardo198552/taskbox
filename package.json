@@ -24,6 +24,7 @@
     "@storybook/addon-links": "^6.5.16",
     "@storybook/builder-webpack5": "^6.5.16",
     "@storybook/manager-webpack5": "^6.5.16",
+    "@storybook/react": "^8.0.9",
     "@storybook/testing-library": "^0.0.13",
     "@storybook/vue": "^6.5.16",
     "@vue/cli-plugin-babel": "~5.0.0",
@@ -46,4 +47,3 @@
     "vue-template-compiler": "^2.6.14"
   }
 }
-
