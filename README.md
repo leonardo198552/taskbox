@@ -20,6 +20,10 @@ npm run build
 npm run test:unit
 ```
 
+### Rodar Localmente Storybook
+
+npm run storybook
+
 ### Lints and fixes files
 ```
 npm run lint
