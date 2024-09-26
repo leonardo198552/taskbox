@@ -29,6 +29,7 @@ export default {
     },
   },
 
+
   computed: {
     classes() {
       return {
@@ -52,3 +53,4 @@ export default {
   },
 };
 </script>
+
